@@ -1,5 +1,5 @@
  create table txs(
-id int primary key auto_increment,
+ id int primary key auto_increment,
 created_at timestamp default current_timestamp,
 amount float,
 is_approved boolean,

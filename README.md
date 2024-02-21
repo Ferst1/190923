@@ -1,9 +1,6 @@
 # 190923
-Hello
-Hello World!!!
-Hello World!!!!
-test new comm
-Hallo
-salut
-1
 - Pashora Olga
+- Andrei Bakhtinov
+- Lidiya Suchkova
+- Viktor Bulatov
+- Alyona Andrieichenko
